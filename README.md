@@ -1,1 +1,1 @@
-# cypress-course
+# Cypress Course
